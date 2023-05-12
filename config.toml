@@ -1,3 +1,26 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Luís Alves'
+theme = "archie"
+copyright = "© Luís Alves"
+
+[params]
+mode = "toggle"
+subtitle = "My own personal website! 😌"
+
+# Social
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/alves-luis"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/alves-luis"
+
+# Menu
+[[menu.main]]
+name = "Resume"
+url = "/resume"
+weight = 1
