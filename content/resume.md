@@ -1,18 +1,47 @@
 +++
 title = "Resume"
 description = ""
-date = "2023-05-12"
+date = "2026-03-06"
 aliases = ["about","resume","cv"]
 author = "Luís Alves"
 +++
 
-*Software Engineer based in Braga, Portugal*
+*DevOps Engineer based in Braga, Portugal*
 
-📧 [Email](mailto:alves-luis@proton.me) / 🌐 [Website](https://alves-luis.pt/) / 📂 [LinkedIn](https://www.linkedin.com/in/alves-luis/) / 👨‍💻 [GitHub](https://github.com/alves-luis/)
+📧 [Email](mailto:luism@alves-luis.pt) / 🌐 [Website](https://alves-luis.pt/) / 📂 [LinkedIn](https://www.linkedin.com/in/alves-luis/) / 👨‍💻 [GitHub](https://github.com/alves-luis/)
 
 # 💼 Work Experience
 
-## **Software Engineer** @ [OutSystems](https://outsystems.com/) *(April 2022 - Present)*
+## **Infrastructure Engineer** @ [Euronext](https://euronext.com/) *(October 2024 - Present)*
+
+As the leading European capital market infrastructure, Euronext provides trusted and sustainable markets to drive innovation and growth.
+
+
+- Administered, configured, and upgraded **Red Hat OpenShift** clusters to ensure high availability, optimal
+performance, and robust security for business-critical applications.
+- Integrated Copenhagen and Oslo sites with legacy implementations of **RHEL** + **OpenShift** clusters within the
+Euronext Group to the existing Systems’ procedures for automated patching, monitoring and compliance.
+- Provided architectural recommendations to the High-Level System Design for a new **OpenShift**-based platform
+for CSD harmonisation based on microservices.
+- Troubleshot and resolved system issues across 13 **OpenShift** clusters.
+
+## **DevOps Engineer** @ [Issuu](https://issuu.com/) *(December 2023 - October 2024)*
+
+First founded in 2006 as a Danish startup, Issuu is the industry-leading digital publishing platform.
+
+
+- As an Infrastructure Engineer, maintained and developed 4 **EKS** clusters and dozens of legacy **EC2** instances
+that provide the Issuu platform with 150+ microservices.
+- Migrated to the latest version of **GitHub Actions'** self-hosted runners achieving 99.99% uptime during and after
+the migration.
+- Migrated **AWS** resources, **Fastly** and **Grafana** configuration to Infrastructure as Code using **Terraform**.
+- Migrated 10+ legacy applications to **ArgoCD** with **Kustomize**.
+- Enhanced network security and efficiency by eliminating public IPv4 usage, optimizing DNS routing across VPCs, and cleaning up orphaned resources, reducing the **AWS** cloud costs by 10% yearly.
+- Led post-mortem reviews by advocating for data-driven analysis.
+- Supervised the system as part of 24/7 on-call rotations.
+- Supporting 10+ Engineering teams with application and cluster troubleshooting.
+
+## **Software Engineer** @ [OutSystems](https://outsystems.com/) *(April 2022 - December 2023)*
 
 OutSystems Developer Cloud (ODC) is a cloud-native, low-code application development platform. It supports Kubernetes, Linux containers, microservices, all on a foundation of Amazon Web Services (AWS) native cloud services.
 
