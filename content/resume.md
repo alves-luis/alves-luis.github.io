@@ -85,7 +85,7 @@ The School of Economics and Management (EEG) is a dynamic and innovative School 
 
 # 🤪 Certifications, Skills & Interests
 
-- **Certifications**: AWS Certified Solutions Architect (Aug. 2022), Certificate of Proficiency in English - C2 (2016)
-- **Skills**: Python, Golang; AWS (EC2, EKS, DynamoDB); Kubernetes; Terraform, Vault, Nomad, Consul;
-Ansible; FastAPI, Django; Prometheus, Grafana; K6, Pact.
+- **Certifications**: Certified Kubernetes Administrator (Jun. 2024), AWS Certified Solutions Architect (Aug. 2022), Certificate of Proficiency in English - C2 (2016)
+- **Skills**: Python, Golang; AWS (EC2, EKS, DynamoDB); Kubernetes, OpenShift; Terraform, Vault, Nomad, Consul;
+Ansible; FastAPI, Django; Prometheus, Grafana, Coralogix; K6, Pact.
 - **Interests**: 🏊‍♂️ Swimming; 🎹 piano; 📚 reading; 🌇 urbanism; 🍞 puns; ♻️ sustainability; 🌎 geopolitics; 🎒 traveling.
